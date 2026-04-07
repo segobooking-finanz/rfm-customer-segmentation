@@ -105,6 +105,8 @@ Deploy a reactivation campaign targeting 21,699 At Risk customers:
 - Potential impact: **$831K additional revenue**
 
 ---
+<img width="1431" height="1484" alt="rfm_01_segment_distribution" src="https://github.com/user-attachments/assets/478efb41-1b57-48d7-a428-9ca80e93dff3" />
+
 
 
 
