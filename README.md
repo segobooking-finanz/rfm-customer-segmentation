@@ -108,6 +108,15 @@ Deploy a reactivation campaign targeting 21,699 At Risk customers:
 <img width="1431" height="1484" alt="rfm_01_segment_distribution" src="https://github.com/user-attachments/assets/478efb41-1b57-48d7-a428-9ca80e93dff3" />
 
 
+<img width="1780" height="1032" alt="rfm_02_revenue_by_segment" src="https://github.com/user-attachments/assets/bf131912-717d-46b3-bf4e-f884adecaf7c" />
+
+<img width="1776" height="1180" alt="rfm_03_recency_vs_monetary" src="https://github.com/user-attachments/assets/7a22a3ce-20ab-46e2-98b2-99210c569aca" />
+
+<img width="1409" height="1182" alt="rfm_04_heatmap" src="https://github.com/user-attachments/assets/d829a81f-b603-464a-a174-5a8ecbd414f0" />
+
+ <img width="1634" height="880" alt="rfm_05_revenue_opportunity" src="https://github.com/user-attachments/assets/007b58ca-39af-4f47-9d5e-14b5a76d471d" />
+
+
 
 
 
