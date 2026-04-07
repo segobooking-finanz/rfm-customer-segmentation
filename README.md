@@ -45,6 +45,23 @@ segmentation and targeted action.
 | 🌱 Potential Loyalists | 164 | 0.18% | $138.05 | $22,639 |
 | 🚨 Cant Lose Them | 81 | 0.09% | $69.51 | $5,630 |
 
+## Visualizations
+
+### 👥 Customer Distribution by Segment
+![Segment Distribution](rfm_01_segment_distribution.png)
+
+### 💰 Revenue by Segment
+![Revenue by Segment](rfm_02_revenue_by_segment.png)
+
+### 🎯 Recency vs Average Spend
+![Recency vs Monetary](rfm_03_recency_vs_monetary.png)
+
+### 🔥 RFM Heatmap
+![RFM Heatmap](rfm_04_heatmap.png)
+
+### 💡 Revenue Opportunity by Segment
+![Revenue Opportunity](rfm_05_revenue_opportunity.png)
+
 ---
 
 ## Key Findings
