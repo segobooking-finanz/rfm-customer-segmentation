@@ -124,6 +124,6 @@ Deploy a reactivation campaign targeting 21,699 At Risk customers:
 ---
 ## Author
 **Simón Segovia** | Financial & Data Analyst  
-📧 [your email]  
-💼 [your LinkedIn URL]  
-🐙 [your GitHub URL]
+📧 simon.segoviavalen@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/simón-sebastián-segovia-valenzuela-6505b1259)  
+🐙 [GitHub](https://github.com/segobooking-finanz)
